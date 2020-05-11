@@ -2,3 +2,7 @@
 
 This repo contains the implementation for a real estate service Rest API, implemented using Flask and SQLAlchemy 
 
+## Used Python Packages
+- Flask
+- Flask-Login
+- Flask-SQLAlchemy
