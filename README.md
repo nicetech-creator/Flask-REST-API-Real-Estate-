@@ -6,3 +6,8 @@ This repo contains the implementation for a real estate service Rest API, implem
 - Flask
 - Flask-Login
 - Flask-SQLAlchemy
+- flask_marshmallow
+
+## Database Schema
+
+![](imgs/db_schema.PNG)
